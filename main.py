@@ -61,7 +61,7 @@ cyrillic_stack = {
     # я
 }
 
-whole_stack = cyrillic_stack | latin_stack
+whole_stack = cyrillic_stack | latin_stack | {" ": ""}
 
 
 def stack(top: str, bottom: str):
