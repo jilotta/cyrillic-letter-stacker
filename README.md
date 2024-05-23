@@ -4,6 +4,6 @@ Stacks one phrase in Cyrillic script on top of another using Unicode characters 
 
 Not all letters are in these blocks. For example, letters "э", "ё" and "я" raise a `KeyError`, "й" is substituted by "ü", and a lot of other letters are subtituted by their Latin look-alikes because of compatibility issues.
 
-A lot of fonts do not support the characters, and some fonts support half. For example, Open Sans shows tofus.
+Despite the most recent characters used being added in 2008, a lot of fonts still do not support the characters, and some fonts support half.
 
-Surprisingly, Iosevka, a programming font, supports all of the characters used.
+Surprisingly, Iosevka, a programming font, supports all of the characters used, but Noto Sans, a font made to suport all of Unicode, does not.
