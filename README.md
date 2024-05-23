@@ -6,4 +6,4 @@ Not all letters are in these blocks. For example, letters "j", "q", "ё", "э" a
 
 Despite the most recent characters used being added in 2008, a lot of fonts still do not support the characters, and some fonts support half.
 
-Surprisingly, Iosevka, a programming font, supports all of the characters used, but Noto Sans, a font made to suport all of Unicode, does not.
+Surprisingly, Iosevka, a programming font, supports all of the characters used, but Noto Sans, a font made to support all of Unicode, does not.
